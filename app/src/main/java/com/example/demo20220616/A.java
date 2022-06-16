@@ -10,5 +10,8 @@ public class A extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_a);
+
+        setTitle("測試地圖範例一");
+
     }
 }
